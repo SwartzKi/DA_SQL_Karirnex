@@ -12,6 +12,10 @@ The dataset contains car sales transaction data, including sales date, branch, p
 
 The project consists of several analysis questions designed to practice SQL concepts and techniques.
 
+## SQL Query
+
+This section contains the complete SQL code from BigQuery, including comments that reference the analysis objectives using numbers (e.g., 1, 2). The comments and analysis approaches are written in Indonesian and may include some personal notes.
+
 ## SQL Concepts
 
 * `SELECT` & `WHERE`
